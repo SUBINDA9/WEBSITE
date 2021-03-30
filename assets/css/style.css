@@ -886,35 +886,3 @@ strong {
         margin-top: -7.5rem;
     }
 }
-
-.home-img{
-	background-color: var(--color-2);
-}
-*/
-.align-items-center{
-	align-items: center;
-}
-.align-content-center{
-	align-content: center;
-}
-.home-img-inner{
-	max-width: 400px;
-	margin: auto;
-	position: relative;
-}
-.home-img-inner img{
-	width: 100%;
-	animation: zoom 7s linear infinite;
-}
-.home-course{
-	/*border: 1px solid red;*/
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	z-index: 1;
-	animation: spin 30s linear infinite;
-}
-
-
